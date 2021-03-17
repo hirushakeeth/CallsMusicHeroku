@@ -1,4 +1,4 @@
-# The Queue Fixed version of Su Player
+# A Queue Supported version of Su Player
 
 ## SU Music Player — The first open-source PyTgCalls based Pyrogram bot to play music in voice chats
 
