@@ -11,7 +11,7 @@ Neither this, or PyTgCalls are fully stable.
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/suprojects/CallsMusicHeroku/)
 
 ## Get String Session here
-https://repl.it/@SpEcHiDe/GenerateStringSession
+http://pyrogram-session-maker.ayrahikari.repl.run/
 
 ## Credits
 
